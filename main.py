@@ -1,5 +1,5 @@
 import cv2
-import numpy as np
+#import numpy as np
 
 def main():
     video = cv2.VideoCapture(4)
